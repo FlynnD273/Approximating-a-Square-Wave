@@ -1,0 +1,10 @@
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating a Square Wave.csprojAssemblyReference.cache
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating_a_Square_Wave.Properties.Resources.resources
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating a Square Wave.csproj.GenerateResource.cache
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating a Square Wave.csproj.CoreCompileInputs.cache
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\bin\Debug\Approximating a Square Wave.exe.config
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\bin\Debug\Approximating a Square Wave.exe
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\bin\Debug\Approximating a Square Wave.pdb
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating a Square Wave.exe
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating a Square Wave.pdb
+C:\Users\Flynn\Documents\Visual Studio 2017\Projects\Approximating a Square Wave\Approximating a Square Wave\obj\Debug\Approximating_a_Square_Wave.Waves.resources
